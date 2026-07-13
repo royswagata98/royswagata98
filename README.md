@@ -12,14 +12,11 @@ C++ Developer • DSA Enthusiast • AI/ML Learner
 
 # 👩‍💻 About Me
 
-🎓 Biomedical Engineering Graduate
-
 💼 Currently working as a **C++ Developer**
 
 🌱 Currently learning
 - Data Structures & Algorithms
 - Machine Learning
-- Generative AI
 - System Design
 
 💡 Interested in
@@ -31,14 +28,7 @@ C++ Developer • DSA Enthusiast • AI/ML Learner
 🎯 2026 Goals
 - Solve 500+ LeetCode problems
 - Build impactful AI projects
-- Contribute to Open Source
 - Strengthen C++ expertise
-
-⚡ Fun Fact
-
-> "Every bug teaches something new."
-
----
 
 # 🌐 Connect With Me
 
