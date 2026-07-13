@@ -83,16 +83,3 @@ C++ Developer • DSA Enthusiast • AI/ML Learner
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=royswagata98&theme=tokyonight"/>
 </p>
-
----
-
-# 🚀 Current Focus
-
-- 🔹 Mastering DSA
-- 🔹 Building C++ Projects
-- 🔹 Learning AI & Machine Learning
-- 🔹 Exploring Open Source
-
----
-
-![](https://komarev.com/ghpvc/?username=royswagata98&style=for-the-badge)
